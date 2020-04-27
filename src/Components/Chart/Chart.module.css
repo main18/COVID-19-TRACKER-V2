@@ -1,0 +1,17 @@
+.container{
+    margin: auto 0;
+    padding:2%;
+}
+.Chart{
+    margin:0 auto;
+    text-align: center;
+}
+
+.text{
+    font-family: 'montserrat', sans-serif;
+    margin-bottom: 10px;
+    font-size: 12px;
+    font-weight: 600;
+    color:#b3b3b3;
+    text-align: center;
+}
